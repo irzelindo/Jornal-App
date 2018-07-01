@@ -31,13 +31,13 @@ public final class R {
         public static final int abc_action_bar_embed_tabs = 0x7f040000;
     }
     public static final class color {
-        public static final int notification_action_color_filter = 0x7f05004b;
-        public static final int notification_icon_bg_color = 0x7f05004c;
-        public static final int notification_material_background_media_default_color = 0x7f05004d;
-        public static final int primary_text_default_material_dark = 0x7f050052;
-        public static final int ripple_material_light = 0x7f050057;
-        public static final int secondary_text_default_material_dark = 0x7f050058;
-        public static final int secondary_text_default_material_light = 0x7f050059;
+        public static final int notification_action_color_filter = 0x7f05004c;
+        public static final int notification_icon_bg_color = 0x7f05004d;
+        public static final int notification_material_background_media_default_color = 0x7f05004e;
+        public static final int primary_text_default_material_dark = 0x7f050053;
+        public static final int ripple_material_light = 0x7f050058;
+        public static final int secondary_text_default_material_dark = 0x7f050059;
+        public static final int secondary_text_default_material_light = 0x7f05005a;
     }
     public static final class dimen {
         public static final int compat_button_inset_horizontal_material = 0x7f06004c;
@@ -137,7 +137,7 @@ public final class R {
         public static final int notification_template_part_time = 0x7f0a003a;
     }
     public static final class string {
-        public static final int status_bar_notification_info_overflow = 0x7f0d0029;
+        public static final int status_bar_notification_info_overflow = 0x7f0d002a;
     }
     public static final class style {
         public static final int TextAppearance_Compat_Notification = 0x7f0e00f0;
