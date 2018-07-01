@@ -1,5 +1,6 @@
 <resources>
     <dimen name="fab_margin">16dp</dimen>
-    <dimen name="btp_margin">8dp</dimen>
-    <dimen name="ly_width">0dp</dimen>
+    <dimen name="margin_top_bottom">8dp</dimen>
+    <dimen name="layout_width">0dp</dimen>
+    <dimen name="article_edit_text_height">300dp</dimen>
 </resources>
