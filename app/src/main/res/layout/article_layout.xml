@@ -16,11 +16,21 @@
         android:orientation="vertical">
 
         <TextView
-            android:id="@+id/tv_article_title"
+        android:id="@+id/tv_article_title"
+        style="@style/Base.TextAppearance.AppCompat.Headline"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Title"
+        android:textColor="@color/colorTitle" />
+
+        <TextView
+            android:id="@+id/tv_article_info"
             style="@style/Base.TextAppearance.AppCompat.Medium"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Title"
+            android:hint="Info"
+            android:layout_marginTop="@dimen/margin_top_bottom"
+            android:layout_marginBottom="@dimen/margin_top_bottom"
             android:textColor="@color/colorTitle" />
 
         <TextView
