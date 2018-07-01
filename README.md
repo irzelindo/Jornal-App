@@ -10,5 +10,5 @@
 
 * All the CRUD, Database implementations with Room, Best practices to avoid database re-query was implemented with use of Livedata and ViewModel. 
 
-* To install and Run the App just download and install the jornalApp.apk file
+* To install and Run the App just download and install the ####jornalApp.apk#### file
 
