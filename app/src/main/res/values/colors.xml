@@ -3,6 +3,8 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
-    <color name="colorTitle">#5F6694</color>
-    <color name="textColor">#EBECF2</color>
+    <color name="colorTitle">#000000</color>
+    <color name="textColor">#797979</color>
+    <color name="colorInfo">#363636</color>
+    <color name="BtTextColor">#ffffff</color>
 </resources>

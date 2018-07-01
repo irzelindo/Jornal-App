@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:2:1-24:12
+ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:2:1-30:12
 MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7e56c05ad779321dcb2d48236cf07576\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:design:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\a30340a893417285dcaec22b0d54e456\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\38d0c337f2faf81bfb1ba1085b2b13df\AndroidManifest.xml:17:1-22:12
@@ -26,25 +26,25 @@ MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\irzel\.gr
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\654c047a5d048401d578cb9ddd9c96b0\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c84faba6d28d885fd077d9b289b10e7d\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\0fed1f9d380680efa8c831027905a22e\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:2:1-30:12
 	package
 		ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:3:5-43
 		INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:2:1-24:12
+		ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:2:1-30:12
 		INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:2:1-24:12
+		ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:2:1-30:12
 		INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:5:5-22:19
+ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:5:5-28:19
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f8c1f38c65e7a95ca02100a97aefb125\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f8c1f38c65e7a95ca02100a97aefb125\AndroidManifest.xml:9:5-20
 MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\2bcaef79e53f68b478b99dc16d22fc8f\AndroidManifest.xml:22:5-28:19
@@ -79,6 +79,12 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:19:17-77
 	android:name
 		ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.irzel.journalapp.AddArticleActivity
+ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:23:9-27:20
+	android:label
+		ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:25:13-53
+	android:name
+		ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:24:13-47
 uses-sdk
 INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml

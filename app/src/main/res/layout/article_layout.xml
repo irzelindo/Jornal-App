@@ -31,7 +31,7 @@
             android:hint="Info"
             android:layout_marginTop="@dimen/margin_top_bottom"
             android:layout_marginBottom="@dimen/margin_top_bottom"
-            android:textColor="@color/colorTitle" />
+            android:textColor="@color/colorInfo" />
 
         <TextView
             android:id="@+id/tv_article_date"

@@ -3,4 +3,5 @@
     <dimen name="margin_top_bottom">8dp</dimen>
     <dimen name="layout_width">0dp</dimen>
     <dimen name="article_edit_text_height">300dp</dimen>
+    <dimen name="rv_margin_top">60dp</dimen>
 </resources>

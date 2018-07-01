@@ -22,7 +22,7 @@
         android:hint="Title" />
 
     <EditText
-        android:id="@+id/editText2"
+        android:id="@+id/et_info"
         android:layout_width="match_parent"
         android:layout_height="@dimen/article_edit_text_height"
         android:layout_weight="1"
@@ -39,8 +39,8 @@
         android:id="@+id/bt_save"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Save"
+        android:text="@string/save_button"
         android:background="@color/colorPrimary"
-        android:textColor="@color/textColor"/>
+        android:textColor="@color/BtTextColor"/>
 
 </LinearLayout>
