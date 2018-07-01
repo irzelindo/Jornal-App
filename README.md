@@ -8,3 +8,5 @@
 * The App should be abble to Authenticate User using google OAuth or another OAuth provider and allow user to performe all the CRUD operations within the app.
 * In this version authentication were not performed yet, it will be handled in the version 1.2 that's about to come. 
 
+* All the CRUD, Database implementations with Room, Best practices to avoid database re-query was implemented with use of Livedata and ViewModel. 
+
