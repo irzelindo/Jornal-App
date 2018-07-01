@@ -1,0 +1,122 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\a30340a893417285dcaec22b0d54e456\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\38d0c337f2faf81bfb1ba1085b2b13df\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f8c1f38c65e7a95ca02100a97aefb125\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\80a0c21821f4a03508bc631a1356f39a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\77dbc07da613eee165d49651ccd688c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\d76ac520f1423cff901e22015023cd22\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\374eea5fe113cdcd80a46f629c5e7dd1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\fefdea8e89704cbc7ab907e7818a38b0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\008100f3458860f139de0ede70a6b3c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\8b8d204879003371124a89ecaf230807\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\9bb51fa58b5a4c32a89a663b5eab200a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\bb3543c1bf7d7a54668d4af53e0b963e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\654c047a5d048401d578cb9ddd9c96b0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5b9096cea5470cb314b8745337a1911b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2cc20219f21178e624ae68905c153441\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9d1d8914d45f1dc373d9c61f49d958df\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b17ebabd7c6e6c99308050e33085c093\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f8c1f38c65e7a95ca02100a97aefb125\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f8c1f38c65e7a95ca02100a97aefb125\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.irzel.journalapp.MainActivity
+ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\a30340a893417285dcaec22b0d54e456\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\a30340a893417285dcaec22b0d54e456\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\38d0c337f2faf81bfb1ba1085b2b13df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\38d0c337f2faf81bfb1ba1085b2b13df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f8c1f38c65e7a95ca02100a97aefb125\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\f8c1f38c65e7a95ca02100a97aefb125\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\80a0c21821f4a03508bc631a1356f39a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\80a0c21821f4a03508bc631a1356f39a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\77dbc07da613eee165d49651ccd688c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\77dbc07da613eee165d49651ccd688c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\d76ac520f1423cff901e22015023cd22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\d76ac520f1423cff901e22015023cd22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\374eea5fe113cdcd80a46f629c5e7dd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\374eea5fe113cdcd80a46f629c5e7dd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\fefdea8e89704cbc7ab907e7818a38b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\fefdea8e89704cbc7ab907e7818a38b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\008100f3458860f139de0ede70a6b3c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\008100f3458860f139de0ede70a6b3c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\8b8d204879003371124a89ecaf230807\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\8b8d204879003371124a89ecaf230807\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\9bb51fa58b5a4c32a89a663b5eab200a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\9bb51fa58b5a4c32a89a663b5eab200a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\bb3543c1bf7d7a54668d4af53e0b963e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\bb3543c1bf7d7a54668d4af53e0b963e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\654c047a5d048401d578cb9ddd9c96b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\654c047a5d048401d578cb9ddd9c96b0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5b9096cea5470cb314b8745337a1911b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\5b9096cea5470cb314b8745337a1911b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2cc20219f21178e624ae68905c153441\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2cc20219f21178e624ae68905c153441\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9d1d8914d45f1dc373d9c61f49d958df\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9d1d8914d45f1dc373d9c61f49d958df\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b17ebabd7c6e6c99308050e33085c093\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\irzel\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b17ebabd7c6e6c99308050e33085c093\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\irzel\OneDrive\Nanodegree\ADN\JournalApp\app\src\main\AndroidManifest.xml
