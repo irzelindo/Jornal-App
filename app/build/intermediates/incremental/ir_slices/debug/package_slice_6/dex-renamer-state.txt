@@ -1,4 +1,4 @@
-#Sun Jul 01 22:08:27 CAT 2018
+#Tue Jul 03 17:07:35 CAT 2018
 base.0=C\:\\Users\\irzel\\OneDrive\\Nanodegree\\ADN\\JournalApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
 path.0=classes.dex
 renamed.0=classes.dex

@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\irzel\\OneDrive\\Nanodegree\\ADN\\JournalApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\irzel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\38d0c337f2faf81bfb1ba1085b2b13df\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\irzel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\be8ed3a859c67f8ddebe39606f286357\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\irzel\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\a30340a893417285dcaec22b0d54e456\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\irzel\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\8343f84b52cb771baed26e82fa802661\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
